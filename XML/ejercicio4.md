@@ -1,0 +1,20 @@
+-Empresa
+  -Empleado
+    -Apellido
+        -Perez
+    -Nombre
+        -Juan
+    -NumEmpleado
+        -1234567890
+    -Email
+        -juanperez@gmail.com
+    -Telefono
+        -666 555 444
+    -Direccion
+        -
+      -Calle
+        -Carrer de Pau Claris, 121
+      -Ciudad
+        -Barcelona
+      -CP
+        -08009

@@ -1,0 +1,38 @@
+<recetas>
+    <receta tiempo_preparacion="20min">
+        <nombre>Ensalada de Quinoa</nombre>
+        <fotografia>https://th.bing.com/th/id/OSK.698a8fa2e2f8c7eaa3088cbb6db16f1e?w=424&amp;h=424&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=6&amp;pid=16.1</fotografia>
+        <ingredientes>
+            <ingrediente cantidad="100" medida="gr">Quinoa</ingrediente>
+            <ingrediente cantidad="1" medida="unidad">Tomate</ingrediente>
+            <ingrediente cantidad="1" medida="unidad">Pepino</ingrediente>
+            <ingrediente cantidad="30" medida="ml">Aceite de oliva</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Cocinar la quinoa según las instrucciones del paquete.</paso>
+            <paso numero="2">Lavar y cortar el tomate y el pepino en cubos pequeños.</paso>
+            <paso numero="3">Mezclar la quinoa cocida con el tomate y el pepino.</paso>
+            <paso numero="4">Agregar aceite de oliva al gusto y mezclar bien.</paso>
+            <paso numero="5">Servir la ensalada fresca.</paso>
+        </preparacion>
+    </receta>
+    <receta tiempo_preparacion="1h30min">
+        <nombre>Pollo al Curry</nombre>
+        <fotografia>https://mejorconsalud.as.com/wp-content/uploads/2018/10/pollo-al-curry.jpg</fotografia>
+        <ingredientes>
+            <ingrediente cantidad="500" medida="gr">Pollo</ingrediente>
+            <ingrediente cantidad="20" medida="gr">Curry en polvo</ingrediente>
+            <ingrediente cantidad="400" medida="ml">Leche de coco</ingrediente>
+            <ingrediente cantidad="30" medida="ml">Aceite de oliva</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Cortar el pollo en trozos pequeños.</paso>
+            <paso numero="2">Calentar el aceite de oliva en una sartén y agregar el pollo.</paso>
+            <paso numero="3">Cocinar el pollo hasta que esté dorado por todos lados.</paso>
+            <paso numero="4">Agregar el curry en polvo y mezclar bien.</paso>
+            <paso numero="5">Verter la leche de coco sobre el pollo y cocinar a fuego lento durante 20 minutos.</paso>
+            <paso numero="6">Servir el pollo al curry con arroz blanco.</paso>
+            <paso numero="7">Decorar con perejil picado antes de servir.</paso>
+        </preparacion>
+    </receta>
+</recetas>

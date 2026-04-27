@@ -1,3 +1,5 @@
+Haz el árbol completo correspondiente al XML que has hecho para organizar las citas médicas del ejercicio 1.1. 
+
 citas
     -cita
         -nombre
