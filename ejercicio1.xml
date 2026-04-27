@@ -1,0 +1,23 @@
+<citas>
+    <cita>
+        <nombre>Juan</nombre>
+        <apellidos>Perez</apellidos>
+        <telefono>123456789</telefono>
+        <fecha>2024-07-01</fecha>
+        <hora>10:00</hora>
+    </cita>
+    <cita>
+        <nombre>Ana</nombre>
+        <apellidos>Garcia</apellidos>
+        <telefono>987654321</telefono>
+        <fecha>2024-07-02</fecha>
+        <hora>11:30</hora>
+    </cita>
+    <cita>
+        <nombre>Carlos</nombre>
+        <apellidos>Lopez</apellidos>
+        <telefono>555555555</telefono>
+        <fecha>2024-07-03</fecha>
+        <hora>14:00</hora>
+    </cita>
+</citas>
