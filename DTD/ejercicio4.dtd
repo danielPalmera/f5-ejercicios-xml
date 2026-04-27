@@ -1,0 +1,9 @@
+<!ELEMENT persona (nombre, mujer, fecha_de_nacimiento, ciudad)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT mujer EMPTY>
+<!ELEMENT fecha_de_nacimiento EMPTY>
+<!ATTLIST fecha_de_nacimiento
+    dia CDATA #REQUIRED
+    mes CDATA #REQUIRED
+    anyo CDATA #FIXED "2000">
+<!ELEMENT ciudad (#PCDATA)>

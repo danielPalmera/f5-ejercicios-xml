@@ -1,0 +1,15 @@
+Crea el DTD que valide este xml y comprueba que valide.
+<Empresa>
+  <Empleado>
+    <Apellido>Perez</Apellido>
+    <Nombre>Juan</Nombre>
+    <NumEmpleado>1234567890</NumEmpleado>
+    <Email>juanperez@gmail.com</Email>
+    <Telefono>666 555 444</Telefono>
+    <Direccion>
+      <Calle>Carrer de Pau Claris, 121</Calle>
+      <Ciudad>Barcelona</Ciudad>
+      <CP>08009</CP>
+    </Direccion>  
+  </Empleado>
+</Empresa>

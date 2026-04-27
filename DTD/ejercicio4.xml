@@ -1,0 +1,7 @@
+<!DOCTYPE persona SYSTEM "ejercicio4.dtd">
+<persona>
+  <nombre>Laura Gomez</nombre>
+  <mujer/>
+  <fecha_de_nacimiento dia="14" mes="07" anyo="2000"/>
+  <ciudad>Sevilla</ciudad>
+</persona>

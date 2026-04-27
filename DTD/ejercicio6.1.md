@@ -1,0 +1,1 @@
+Usa IDREFS en lugar de IDREF para poder poner en un solo ticket varias compras.

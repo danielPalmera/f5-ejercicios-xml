@@ -1,0 +1,26 @@
+-matricula
+    -ciclo
+        -DAW
+    -alumnos
+        -alumno
+            -nombre
+                -Juan Perez
+            -year
+                -2026
+            -asignaturas
+                -asignatura
+                    -Lenguaje de Marcas
+                -asignatura
+                    -Bases de Datos
+        -alumno
+            -nombre
+                -Ana Lopez
+            -year
+                -2026
+            -asignaturas
+                -asignatura
+                    -Entornos de Desarrollo
+                -asignatura
+                    -Programacion
+                -asignatura
+                    -Sistemas Informaticos

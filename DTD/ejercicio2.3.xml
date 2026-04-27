@@ -1,0 +1,39 @@
+<!DOCTYPE Empresa SYSTEM "ejercicio2.3.dtd">
+<Empresa>
+  <Empleado>
+    <Apellido>Perez</Apellido>
+    <Nombre>Juan</Nombre>
+    <NumEmpleado>1234567890</NumEmpleado>
+    <Email>juanperez@gmail.com</Email>
+    <Telefono>666 555 444</Telefono>
+    <Direccion>
+      <Calle>Carrer de Pau Claris, 121</Calle>
+      <Ciudad>Barcelona</Ciudad>
+      <CP>08009</CP>
+    </Direccion>
+  </Empleado>
+  <Empleado>
+    <Apellido>Lopez</Apellido>
+    <Nombre>Ana</Nombre>
+    <NumEmpleado>2345678901</NumEmpleado>
+    <Email>analopez@gmail.com</Email>
+    <Telefono>611 222 333</Telefono>
+    <Direccion>
+      <Calle>Gran Via, 45</Calle>
+      <Ciudad>Madrid</Ciudad>
+      <CP>28013</CP>
+    </Direccion>
+  </Empleado>
+  <Empleado>
+    <Apellido>Martinez</Apellido>
+    <Nombre>Carlos</Nombre>
+    <NumEmpleado>3456789012</NumEmpleado>
+    <Email>carlosmartinez@gmail.com</Email>
+    <Telefono>622 333 444</Telefono>
+    <Direccion>
+      <Calle>Avenida del Puerto, 90</Calle>
+      <Ciudad>Valencia</Ciudad>
+      <CP>46023</CP>
+    </Direccion>
+  </Empleado>
+</Empresa>

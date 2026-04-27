@@ -1,0 +1,23 @@
+<!DOCTYPE matricula SYSTEM "ejercicio3.dtd">
+<matricula>
+  <ciclo>DAW</ciclo>
+  <alumnos>
+    <alumno>
+      <nombre>Juan Perez</nombre>
+      <year>2026</year>
+      <asignaturas>
+        <asignatura>Lenguaje de Marcas</asignatura>
+        <asignatura>Bases de Datos</asignatura>
+      </asignaturas>
+    </alumno>
+    <alumno>
+      <nombre>Ana Lopez</nombre>
+      <year>2026</year>
+      <asignaturas>
+        <asignatura>Entornos de Desarrollo</asignatura>
+        <asignatura>Programacion</asignatura>
+        <asignatura>Sistemas Informaticos</asignatura>
+      </asignaturas>
+    </alumno>
+  </alumnos>
+</matricula>

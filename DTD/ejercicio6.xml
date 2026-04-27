@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "ejercicio6.dtd">
+<libreria>
+    <libro ISBN="A9788497592581" titulo="El origen de las especies"/>
+    <libro ISBN="A9788497592511" titulo="La Celestina"/>
+    <libro ISBN="A8481301264" titulo="El nombre de la Rosa"/>
+
+    <ticket idTicket="T001" refLibro="A9788497592581" cantidad="1"/>
+</libreria>
