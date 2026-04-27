@@ -1,0 +1,17 @@
+<!ELEMENT biblioteca (libro+, usuario+, prestamo+)>
+
+<!ELEMENT libro EMPTY>
+<!ATTLIST libro
+    ISBN ID #REQUIRED
+    titulo CDATA #REQUIRED
+    tipo (clasico|novela|teatro) "clasico">
+
+<!ELEMENT usuario EMPTY>
+<!ATTLIST usuario
+    DNI ID #REQUIRED
+    nombre CDATA #REQUIRED>
+
+<!ELEMENT prestamo EMPTY>
+<!ATTLIST prestamo
+    DNI IDREF #REQUIRED
+    ISBN IDREFS #REQUIRED>
